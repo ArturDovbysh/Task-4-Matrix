@@ -1,0 +1,7 @@
+D:\Task_4_ArturDovbysh\Task_4_ArturDovbysh\bin\Debug\Task_4_ArturDovbysh.exe.config
+D:\Task_4_ArturDovbysh\Task_4_ArturDovbysh\bin\Debug\Task_4_ArturDovbysh.exe
+D:\Task_4_ArturDovbysh\Task_4_ArturDovbysh\bin\Debug\Task_4_ArturDovbysh.pdb
+D:\Task_4_ArturDovbysh\Task_4_ArturDovbysh\obj\Debug\Task_4_ArturDovbysh.csprojResolveAssemblyReference.cache
+D:\Task_4_ArturDovbysh\Task_4_ArturDovbysh\obj\Debug\Task_4_ArturDovbysh.csproj.CoreCompileInputs.cache
+D:\Task_4_ArturDovbysh\Task_4_ArturDovbysh\obj\Debug\Task_4_ArturDovbysh.exe
+D:\Task_4_ArturDovbysh\Task_4_ArturDovbysh\obj\Debug\Task_4_ArturDovbysh.pdb
