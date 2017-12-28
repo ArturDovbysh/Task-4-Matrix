@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task_4_ArturDovbysh
+namespace Task_4_ArturDovbysh.Matrix
 {
     /// <summary>
     /// Represents rectangular numeric matrix.

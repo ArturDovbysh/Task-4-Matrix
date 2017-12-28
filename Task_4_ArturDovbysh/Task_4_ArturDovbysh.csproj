@@ -42,9 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Determinant.cs" />
-    <Compile Include="MyMatrix.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Matrix\Determinant.cs" />
+    <Compile Include="Matrix\MyMatrix.cs" />
+    <Compile Include="Program\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

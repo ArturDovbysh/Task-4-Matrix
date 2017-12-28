@@ -1,6 +1,5 @@
-﻿using System;
-
-namespace Task_4_ArturDovbysh
+﻿
+namespace Task_4_ArturDovbysh.Matrix
 {
     /// <summary>
     /// Represents determinant calculator for square matrixes.
